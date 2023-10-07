@@ -323,6 +323,8 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [iOS Course Lectures Spring 2021 - Cornell AppDev](https://youtube.com/playlist?list=PLjf6nsEcF5KOVWRlOPwrJm9X69YtSx_OZ)
 - [TUTORIAIS iOS (LEGACY)](https://www.youtube.com/playlist?list=PLJ0AcghBBWSjpnacG8ZD_1pWpU5IJrp2d)
 
+- [Bootcamp iOS Usemobile - Privado](https://youtube.com/playlist?list=PLf3hAuQOS71WTBN6PAGM7FaQklcGo70ND&si=xzzS6aW2ZHr_7e9E)
+
 ## Podcasts
 
 - [Build Failed Podcast 🇧🇷](https://twitter.com/buildfailedcast)
