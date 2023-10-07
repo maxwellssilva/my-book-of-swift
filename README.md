@@ -175,6 +175,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 
 ### Networking
 
+- [Networking with URLSession (GET and POST) - Emmanuel Okwara](https://www.youtube.com/watch?v=xsfzGt7k0rI)
 - [Async/Await: Camada Network genérica com Swift 5.5 - Victor Catão [🇧🇷]](https://medium.com/victorcatao/async-await-camada-network-gen%C3%A9rica-com-swift-5-5-18aa8f177c9c)
 - [Usando Codables em Swift 5 para consumir uma API de filmes - Lucas Fernandez [🇧🇷]](https://medium.com/mackmobile/usando-codables-em-swift-5-para-consumir-uma-api-de-filmes-356534e7e1f0)
 - [Como fazer um GET em Swift 4.2 - Gois [🇧🇷]](https://medium.com/mackmobile/como-fazer-um-get-em-swift-4-2-4acc53854241)
@@ -310,10 +311,11 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 
 ## Playlists no Youtube
 
+- [Curso de Swift Básico - Novos Negócios em TIC](https://youtube.com/playlist?list=PLTl7hsEfhCWVx6os_oOHpJF_YrJmRnIQk&si=giHgmaCiLB0yUnbp)
 - [Curso de Swift - Hugo Vasconcelos [🇧🇷]](https://www.youtube.com/playlist?list=PLxNM4ef1BpxjjMKpcYSqXI4eY4tZG2csm)
 - [Aulas de Swift - Bruno Scheltzke [🇧🇷]](https://youtube.com/playlist?list=PLZwVYMtzU9Em9q0vVyneFdqn-4XVl9YBG)
 - [Desenvolvimento iOS - Desgourmetizando o conhecimento / Renato Matos [🇧🇷]](https://www.youtube.com/watch?v=q0FAU6_7We0&list=PLEPErUz4EUV-Sy6ZrJjRyMRgKJPs5EGjF)
-- [DESENVOLVIMENTO iOS - Tiago Aguiar [🇧🇷]](https://www.youtube.com/playlist?list=PLJ0AcghBBWSghADkQIbw-9I0m9WDOsI3s)
+- [Desenvolvimento iOS - Tiago Aguiar [🇧🇷]](https://www.youtube.com/playlist?list=PLJ0AcghBBWSghADkQIbw-9I0m9WDOsI3s)
 - [Curso de Swift - Programação - Tiago Aguiar [🇧🇷]](https://www.youtube.com/playlist?list=PLJ0AcghBBWShgIH122uw7H9T9-NIaFpP-)
 - [iOS Development with Swift Tutorials](https://youtube.com/playlist?list=PL6gx4Cwl9DGDgp7nGSUnnXihbTLFZJ79B)
 - [Curso grátis Swift e SwiftUI (stanford 2020)](https://youtube.com/playlist?list=PLMdYygf53DP46rneFgJ7Ab6fJPcMvr8gC)
@@ -337,16 +339,17 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 
 ## Cursos gratuitos
 
-- [Swift4Noobs [🇧🇷]](https://github.com/giovannamoeller/swift4noobs)
 - [Aprendendo Swift do Iniciante ao Avançado - Udemy [🇧🇷]](https://www.udemy.com/course/aprendendoswift3/)
+- [Swift4Noobs [🇧🇷]](https://github.com/giovannamoeller/swift4noobs)
+- [100 Days of Swift](https://www.hackingwithswift.com/100/swiftui)
 - [iOS 13 & Swift 5 - Recriando o Tinder 2020 [🇧🇷]](https://www.udemy.com/course/ios-13-swift-5-recriando-o-tinder-2020/)
 - [Ensino de Programação - Apple](https://www.apple.com/br/education/k12/teaching-code/)
 - [CS193p - Developing Applications for iOS using SwiftUI - Stanford](https://cs193p.sites.stanford.edu/)
-- [100 Days of Swift](https://www.hackingwithswift.com/100/swiftui)
 - [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)
 
 ## Cursos pagos
 
+- [The Complete iOS Development Bootcamp - Udemy](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
 - [Curso Carreira iOS - Comitando [🇧🇷]](https://comitando.com.br/)
 - [Layouts com SwiftUI - Alura [🇧🇷]](https://www.alura.com.br/curso-online-swift-ui)
 - [Curso Completo Desenvolvimento iOS 11 Swift 4 - Eric Brito [🇧🇷]](https://www.udemy.com/course/curso-completo-de-desenvolvimento-ios11swift4/)
@@ -354,7 +357,6 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Swift - TDD, Clean Architecture, Design Patterns, SOLID, MVP - Rodrigo Manguinho [🇧🇷]](https://www.udemy.com/course/swift-tdd-com-mango/)
 - [Desenvolvimento IOS 12 - Aprenda a criar 18 Apps - Jamilton Damasceno [🇧🇷]](https://www.udemy.com/course/curso-desenvolvimento-ios/)
 - [Desenvolvedor iOS: Prepare-se para o Mercado de Trabalho - Wellignton Bezerra [🇧🇷]](https://www.udemy.com/course/desenvolvimento-ios/)
-- [The Complete iOS Development Bootcamp - Udemy](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
 - [Do Iniciante ao Avançado em Testes Unitários no iOS](https://www.udemy.com/course/do-iniciante-ao-avancado-em-testes-unitarios-no-ios/)
 
 ## Roadmaps
