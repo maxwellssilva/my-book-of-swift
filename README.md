@@ -3,8 +3,6 @@ Tudo direcionado para aprendizagem e consulta sobre desenvolvimento iOS
 
 # Sumário
 
-- [Aprenda Swift](#aprenda-swift)
-  - [Como contribuir?](#como-contribuir)
 - [Sumário](#sumário)
   - [Conteúdos](#conteúdos)
     - [Tutoriais](#tutoriais)
